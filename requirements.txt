@@ -1,0 +1,5 @@
+chromadb
+openai
+docx2txt
+PyMuPDF
+python-dotenv
