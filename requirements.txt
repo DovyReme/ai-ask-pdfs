@@ -1,5 +1,7 @@
-chromadb
-openai
-docx2txt
-PyMuPDF
 python-dotenv
+langchain_community 
+langchain
+langchain_openai
+langchain-groq
+langchain_chroma
+pypdf
